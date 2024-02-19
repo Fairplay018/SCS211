@@ -13,6 +13,45 @@
         "sale": null,
         "old": null   
       },
+        {
+        "class": "product EV",
+        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/337421512_204693072174540_3743762487851329957_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=tONbJRlyDA8AX_I6KGp&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBx3Lc1OJx2dkSmWPFLHc9ksPvWwe_eTMguhgB5L8BOpA&oe=65D6BCBC",
+        "note title": "note no-stock",
+        "note": "ติดจอง",
+        "title": "BYD Yuan PLUS",
+        "price": "฿ 1500.-/วัน",
+        "price_sale": null,        
+        "price_old": null,
+        "normal": "price",
+        "sale": null,
+        "old": null
+      },
+      {
+        "class": "product available on-sale BMW",
+        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/318420874_1077081769633899_7251494286587418950_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=gpe26eMDHisAX9FWZxH&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBvyc4Z3y5PsnepcICQ0CqLiOoW7wqlpwGtH1nSyfsTLA&oe=65D5F170",
+        "note title": "note on-sale",
+        "note": "ราคาพิเศษ",
+        "title": "BMW 330i (G20) M-Sport",
+        "price": null,
+        "price_sale": "฿ 1300.-/วัน",        
+        "price_old": "฿ 1550.-/วัน",
+        "normal": null,
+        "sale": "price sale",
+        "old": "price old"      
+      },
+      {
+        "class": "product available on-sale Porsche",
+        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/279105566_931888937486517_1092078827315573529_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=KAE8xelzqWwAX8iCXW_&_nc_ht=scontent-bkk1-1.xx&oh=00_AfAoYRiX4lketQ0QfvJVCN0SZjsluiUliRHmaXJ4iyihMQ&oe=65D5B29D",
+        "note title": "note on-sale",
+        "note": "ราคาพิเศษ",
+        "title": "PORSCHE TAYCAN 4S-4W",
+        "price": null,
+        "price_sale": "฿ 2250.-/วัน",        
+        "price_old": "฿ 2350.-/วัน",
+        "normal": null,
+        "sale": "price sale",
+        "old": "price old"      
+      },
       {
         "class": "product available Toyota",
         "note title": null,
@@ -27,7 +66,7 @@
         "old": null   
       },
       {
-        "class": "product available Mitsubishi",
+        "class": "product Mitsubishi",
         "note title": "note no-stock",
         "note": "ติดจอง",
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/319549430_1078470239495052_7012047750811514703_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=OmxlfGUvmoYAX9omFKC&_nc_ht=scontent-bkk1-1.xx&oh=00_AfB2xkR-f8EwxwrHhI42_Dc5TPy0hbIRgF0bIn-FuCI5sA&oe=65D6545A",
@@ -40,7 +79,7 @@
         "old": null   
       },
       {
-        "class": "product available EV",
+        "class": "product EV",
         "note title": "note no-stock",
         "note": "ติดจอง",
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/392928544_1071064454260091_8611352833986636842_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=B6Ux7S4j8fMAX_gYm4J&_nc_ht=scontent-bkk1-1.xx&oh=00_AfArQOrUvA6M7trU-fe4kQKgVYyFAxBF395gvhyYDcTInA&oe=65D6A710",
@@ -53,7 +92,7 @@
         "old": null   
       },
       {
-        "class": "product available Honda",
+        "class": "product Honda",
         "note title": "note no-stock",
         "note": "ติดจอง",
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/395423246_1071064460926757_5526842956125578619_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=Wgv-EXeb9DMAX_atPC6&_nc_oc=AQliRS4-55KcdMRRat0xPCpUvHCiSlOR5bM_uixy9rSugro4nU5Ubiscrm4RxhbyvZA&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBJlmk_--5UJ45q7AcjWmfRsxmRLg2hh_aiNVj19KvcfA&oe=65D68CEB",
@@ -103,46 +142,7 @@
         "normal": null,
         "sale": "price sale",
         "old": "price old"      
-      },
-      {
-        "class": "product EV",
-        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/337421512_204693072174540_3743762487851329957_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=tONbJRlyDA8AX_I6KGp&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBx3Lc1OJx2dkSmWPFLHc9ksPvWwe_eTMguhgB5L8BOpA&oe=65D6BCBC",
-        "note title": "note no-stock",
-        "note": "ติดจอง",
-        "title": "BYD Yuan PLUS",
-        "price": "฿ 1500.-/วัน",
-        "price_sale": null,        
-        "price_old": null,
-        "normal": "price",
-        "sale": null,
-        "old": null
-      },
-      {
-        "class": "product available on-sale BMW",
-        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/318420874_1077081769633899_7251494286587418950_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=gpe26eMDHisAX9FWZxH&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBvyc4Z3y5PsnepcICQ0CqLiOoW7wqlpwGtH1nSyfsTLA&oe=65D5F170",
-        "note title": "note on-sale",
-        "note": "ราคาพิเศษ",
-        "title": "BMW 330i (G20) M-Sport",
-        "price": null,
-        "price_sale": "฿ 1300.-/วัน",        
-        "price_old": "฿ 1550.-/วัน",
-        "normal": null,
-        "sale": "price sale",
-        "old": "price old"      
-      },
-      {
-        "class": "product available on-sale Porsche",
-        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/279105566_931888937486517_1092078827315573529_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=KAE8xelzqWwAX8iCXW_&_nc_ht=scontent-bkk1-1.xx&oh=00_AfAoYRiX4lketQ0QfvJVCN0SZjsluiUliRHmaXJ4iyihMQ&oe=65D5B29D",
-        "note title": "note on-sale",
-        "note": "ราคาพิเศษ",
-        "title": "PORSCHE TAYCAN 4S-4W",
-        "price": null,
-        "price_sale": "฿ 2250.-/วัน",        
-        "price_old": "฿ 2350.-/วัน",
-        "normal": null,
-        "sale": "price sale",
-        "old": "price old"      
-      },
+      },      
       {
         "class": "product available on-sale Benz",
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/332456495_732218991836678_7588791716314147541_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=sr9fl8lCS8wAX8gv3dw&_nc_ht=scontent-bkk1-1.xx&oh=00_AfA2SGoCNu7-t3vmP46gAdtppOUFfoyPl0ODBECanRYX1Q&oe=65D7671E",
