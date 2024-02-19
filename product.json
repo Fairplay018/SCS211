@@ -91,33 +91,7 @@
         "sale": "price sale",
         "old": "price old" 
       },
-      {
-        "class": "product available on-sale Benz",
-        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/332456495_732218991836678_7588791716314147541_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=sr9fl8lCS8wAX8gv3dw&_nc_ht=scontent-bkk1-1.xx&oh=00_AfA2SGoCNu7-t3vmP46gAdtppOUFfoyPl0ODBECanRYX1Q&oe=65D7671E",
-        "note title": "note on-sale",
-        "note": "ราคาพิเศษ",
-        "title": "Mercedes-Benz CLS53 AMG",        
-        "price": null,
-        "price_sale": "฿ 2600.-/วัน",        
-        "price_old": "฿ 2850.-/วัน",
-        "normal": null,
-        "sale": "price sale",
-        "old": "price old"    
-      },
-      {
-        "class": "product available on-sale EV",
-        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/347258048_991432725556598_3416878070084161663_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=E-I2u9Ql6X0AX9AJpuG&_nc_ht=scontent-bkk1-1.xx&oh=00_AfAnHbuJ3isxhvp_E3nhn-DJVLmaZrTIVv-TAL4moFLPTA&oe=65D67E2C",
-        "note title": "note on-sale",
-        "note": "ราคาพิเศษ",
-        "title": "ORA Good Cat",
-        "price": null,
-        "price_sale": "฿ 1200.-/วัน",        
-        "price_old": "฿ 1350.-/วัน",
-        "normal": null,
-        "sale": "price sale",
-        "old": "price old"              
-      },
-      {
+        {
         "class": "product available on-sale Honda",
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/395412212_1071892334177303_3522676432218188303_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=RDDbJdh9-s0AX9qfAmQ&_nc_ht=scontent-bkk1-1.xx&oh=00_AfAKpcIxQAmSZWdj-95kGV0E4Nai1RUJjq94uBFkrMQ-Rg&oe=65D6199B",
         "note title": "note on-sale",
@@ -169,6 +143,32 @@
         "sale": "price sale",
         "old": "price old"      
       },
+      {
+        "class": "product available on-sale Benz",
+        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/332456495_732218991836678_7588791716314147541_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=sr9fl8lCS8wAX8gv3dw&_nc_ht=scontent-bkk1-1.xx&oh=00_AfA2SGoCNu7-t3vmP46gAdtppOUFfoyPl0ODBECanRYX1Q&oe=65D7671E",
+        "note title": "note on-sale",
+        "note": "ราคาพิเศษ",
+        "title": "Mercedes-Benz CLS53 AMG",        
+        "price": null,
+        "price_sale": "฿ 2600.-/วัน",        
+        "price_old": "฿ 2850.-/วัน",
+        "normal": null,
+        "sale": "price sale",
+        "old": "price old"    
+      },
+      {
+        "class": "product available on-sale EV",
+        "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/347258048_991432725556598_3416878070084161663_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=E-I2u9Ql6X0AX9AJpuG&_nc_ht=scontent-bkk1-1.xx&oh=00_AfAnHbuJ3isxhvp_E3nhn-DJVLmaZrTIVv-TAL4moFLPTA&oe=65D67E2C",
+        "note title": "note on-sale",
+        "note": "ราคาพิเศษ",
+        "title": "ORA Good Cat",
+        "price": null,
+        "price_sale": "฿ 1200.-/วัน",        
+        "price_old": "฿ 1350.-/วัน",
+        "normal": null,
+        "sale": "price sale",
+        "old": "price old"              
+      },      
       {
         "class": "product available on-sale Toyota",
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/395440509_1071063854260151_8947796384180393407_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=YOUOaVlVelAAX-9THZ5&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBBwXEJxPSg70y-Ey0m3RARxg8UiZZLNa3z5otOAKb0-A&oe=65D67E7B",
