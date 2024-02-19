@@ -152,9 +152,9 @@
         "price": null,
         "price_sale": "฿ 1300.-/วัน",        
         "price_old": "฿ 1550.-/วัน",
-        "normal": "price",
-        "sale": null,
-        "old": null
+        "normal": null,
+        "sale": "price sale",
+        "old": "price old"      
       },
       {
         "class": "product available on-sale Porsche",
@@ -165,9 +165,9 @@
         "price": null,
         "price_sale": "฿ 2250.-/วัน",        
         "price_old": "฿ 2350.-/วัน",
-        "normal": "price",
-        "sale": null,
-        "old": null
+        "normal": null,
+        "sale": "price sale",
+        "old": "price old"      
       },
       {
         "class": "product available on-sale Toyota",
@@ -178,9 +178,9 @@
         "price": null,
         "price_sale": "฿ 1850.-/วัน",        
         "price_old": "฿ 2000.-/วัน",
-        "normal": "price",
-        "sale": null,
-        "old": null
+        "normal": null,
+        "sale": "price sale",
+        "old": "price old"      
       },
       {
         "class": "product available on-sale Toyota",
@@ -191,9 +191,9 @@
         "price": null,
         "price_sale": "฿ 1300.-/วัน",        
         "price_old": "฿ 1450.-/วัน",
-        "normal": "price",
-        "sale": null,
-        "old": null
+        "normal": null,
+        "sale": "price sale",
+        "old": "price old"      
       }
    ]
 }
