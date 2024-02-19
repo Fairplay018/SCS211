@@ -7,7 +7,9 @@
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/395402483_1071064344260102_3540384491910781681_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=pObWIX6Ks4EAX8t7ow-&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBMmsVF_9c3fRB_u0JJXA0o67vGAAvFGRGhbindZxx3yg&oe=65D6FABD",
         "info": {
           "title": "MG VS HEV 1.5 X",
-          "price": "฿ 950.-/วัน"
+          "price": "฿ 950.-/วัน",
+          "price_sale": "",
+          "price_old": ""
         }
       },
       {
@@ -17,7 +19,9 @@
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/402201283_1085630689470134_7230535223719627465_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=A4VXqKBV5WYAX9p8cVp&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBQfoCy8A1Ul5wXh6TP2v6xdbjpG31yagapRcrrz520Fg&oe=65D640D9",
         "info": {
           "title": "Toyota Yaris Ativ",
-          "price": "฿ 950.-/วัน"
+          "price": "฿ 950.-/วัน",
+          "price_sale": "",
+          "price_old": ""
         }
       },
       {
@@ -27,7 +31,9 @@
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/319549430_1078470239495052_7012047750811514703_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=OmxlfGUvmoYAX9omFKC&_nc_ht=scontent-bkk1-1.xx&oh=00_AfB2xkR-f8EwxwrHhI42_Dc5TPy0hbIRgF0bIn-FuCI5sA&oe=65D6545A",
         "info": {
           "title": "MITSUBISHI PAJERO SPORT 2.4",
-          "price": "฿ 1300.-/วัน"
+          "price": "฿ 1300.-/วัน",
+          "price_sale": "",
+          "price_old": ""
         }
       },
       {
@@ -37,7 +43,9 @@
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/392928544_1071064454260091_8611352833986636842_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=B6Ux7S4j8fMAX_gYm4J&_nc_ht=scontent-bkk1-1.xx&oh=00_AfArQOrUvA6M7trU-fe4kQKgVYyFAxBF395gvhyYDcTInA&oe=65D6A710",
         "info": {
           "title": "Tesla Model 3",
-          "price": "฿ 1100.-/วัน"
+          "price": "฿ 1100.-/วัน",
+          "price_sale": "",
+          "price_old": ""
         }
       },
       {
@@ -47,7 +55,9 @@
         "image": "https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/395423246_1071064460926757_5526842956125578619_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=Wgv-EXeb9DMAX_atPC6&_nc_oc=AQliRS4-55KcdMRRat0xPCpUvHCiSlOR5bM_uixy9rSugro4nU5Ubiscrm4RxhbyvZA&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBJlmk_--5UJ45q7AcjWmfRsxmRLg2hh_aiNVj19KvcfA&oe=65D68CEB",
         "info": {
           "title": "Honda CIVIC EL 1.8",
-          "price": "฿ 750.-/วัน"
+          "price": "฿ 750.-/วัน",
+          "price_sale": "",
+          "price_old": ""
         }
       },
       {
@@ -57,7 +67,9 @@
         "note": "ติดจอง",
         "info": {
           "title": "HONDA JAZZ 1.5 S",
-          "price": "฿ 850.-/วัน"
+          "price": "฿ 850.-/วัน",
+          "price_sale": "",
+          "price_old": ""
         }
       },
       {
@@ -67,6 +79,7 @@
         "note": "ราคาพิเศษ",
         "info": {
           "title": "Mazda 2 1.3 skyactive",
+          "price": "",
           "price_sale": "฿ 600.-/วัน",
           "price_old": "฿ 650.-/วัน"
         }
@@ -78,6 +91,7 @@
         "note": "ราคาพิเศษ",
         "info": {
           "title": "Mercedes-Benz CLS53 AMG",
+          "price": "",
           "price_sale": "฿ 2600.-/วัน",
           "price_old": "฿ 2850.-/วัน"
         }
@@ -89,6 +103,7 @@
         "note": "ราคาพิเศษ",
         "info": {
           "title": "ORA Good Cat",
+          "price": "",
           "price_sale": "฿ 1200.-/วัน",
           "price_old": "฿ 1350.-/วัน"
         }
@@ -100,6 +115,7 @@
         "note": "ราคาพิเศษ",
         "info": {
           "title": "Honda HR-V 1.5 EL",
+          "price": "",
           "price_sale": "฿ 1350.-/วัน",
           "price_old": "฿ 1550.-/วัน"
         }
@@ -111,7 +127,9 @@
         "note": "ติดจอง",
         "info": {
           "title": "BYD Yuan PLUS",
-          "price": "฿ 1500.-/วัน"
+          "price": "฿ 1500.-/วัน",
+          "price_sale": "",
+          "price_old": ""
         }
       },
       {
@@ -121,6 +139,7 @@
         "note": "ราคาพิเศษ",
         "info": {
           "title": "BMW 330i (G20) M-Sport",
+          "price": "",
           "price_sale": "฿ 1300.-/วัน",
           "price_old": "฿ 1550.-/วัน"
         }
@@ -132,6 +151,7 @@
         "note": "ราคาพิเศษ",
         "info": {
           "title": "PORSCHE TAYCAN 4S-4W",
+          "price": "",
           "price_sale": "฿ 2250.-/วัน",
           "price_old": "฿ 2350.-/วัน"
         }
@@ -143,6 +163,7 @@
         "note": "ราคาพิเศษ",
         "info": {
           "title": "TOYOTA VELLFIRE 2.5 Z",
+          "price": "",
           "price_sale": "฿ 1850.-/วัน",
           "price_old": "฿ 2000.-/วัน"
         }
@@ -154,6 +175,7 @@
         "note": "ราคาพิเศษ",
         "info": {
           "title": "Toyota Corolla Cross 1.8 XS",
+          "price": "",
           "price_sale": "฿ 1300.-/วัน",
           "price_old": "฿ 1450.-/วัน"
         }
