@@ -3,7 +3,7 @@
         <div class="container text-center">
             <div class="row" style="align-items: top; padding-bottom: 90px">
                 <div class="col-lg-3 text-center">
-                    <img class="logo" src="https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/327181884_1322375851640873_294490249986816888_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=fyQSP8o8Y0oAX--ndCv&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBt6BrSlNMg_CQJCMmdgAMKjJ03hrrnOy4DTOM9RtAr_A&oe=65D682D7" alt="logo" />
+                    <img class="logo" src="https://raw.githubusercontent.com/Fairplay018/SCS211/main/project/pic/logo.jpg" alt="logo" />
                 </div>
                 <div class="col-lg-3 text-center">
                     <div class="f_widget company_widget wow fadeInLeft" data-wow-delay="0.2s" style="
