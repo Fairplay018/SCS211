@@ -25,12 +25,12 @@
       <ol class="breadcrumb bg-white">
         <li class="breadcrumb-item"><a href="index.php"><i class="fas fa-home"></i> หน้าหลัก</a></li>
         <li class="breadcrumb-item active" aria-current="page">สินค้าและบริการ</a></li>
-        <li class="breadcrumb-item "><a href="condition.php #promotion">เงื่อนไขและข้อตกลง</li>
+        <li class="breadcrumb-item "><a href="condition.php #promotion">เงื่อนไขและข้อตกลง</a></li>
       </ol>
     </div>
 
     <!-- product -->
-    <div>
+    <div class="row">
       <h2>สินค้าและบริการ</h2>
       <h4>รถเช่าทั้งหมดของเรา</h4>
       <div class="filter-menu text-end">
@@ -44,7 +44,6 @@
           <option value="Mazda">Mazda</option>
           <option value="BMW">BMW</option>
           <option value="Benz">Benz</option>
-          <option value="Porsche">Porsche</option>
           <option value="EV">EV (ไฟฟ้า)</option>
         </select>
       </div>
