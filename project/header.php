@@ -53,7 +53,7 @@
                         <button class="whiteLink siteLink" onclick="menuToggle()">
                             <i class="fas fa-sign-out-alt me-2"></i>กลับ
                         </button>
-                        <img src="https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/327181884_1322375851640873_294490249986816888_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=fyQSP8o8Y0oAX--ndCv&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBt6BrSlNMg_CQJCMmdgAMKjJ03hrrnOy4DTOM9RtAr_A&oe=65D682D7" alt="logo" style="max-width: 70%" />
+                        <img src="https://raw.githubusercontent.com/Fairplay018/SCS211/main/project/pic/logo.jpg" alt="logo" style="max-width: 70%" />
                     </div>
                 </div>
                 <div>
@@ -85,13 +85,13 @@
             <!-- The slideshow -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/327194210_1852533095119255_7241700628939302268_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=783fdb&_nc_ohc=hbgCSX6PM94AX-pUj9Z&_nc_ht=scontent-bkk1-1.xx&oh=00_AfCTkLcIoPypqX9HIpGEeYK2AukNPmca8vIfzx9c6YAhQw&oe=65D670B1" alt="cover" />
+                    <img src="https://raw.githubusercontent.com/Fairplay018/SCS211/main/project/pic/slide%20(1).jpg" alt="cover" />
                 </div>
                 <div class="carousel-item">
-                    <img src="https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/286776351_956436095031801_9007950956619152473_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=jIsKiP9wlc4AX83XgWL&_nc_ht=scontent-bkk1-1.xx&oh=00_AfCrEC_e4gBTBZPJsyzqpKfVh8nihU4GXsiMZRIZgXbJPA&oe=65D67F03" alt="cover" />
+                    <img src="https://raw.githubusercontent.com/Fairplay018/SCS211/main/project/pic/slide%20(2).jpg" alt="cover" />
                 </div>
                 <div class="carousel-item">
-                    <img src="https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/271942392_873017516706993_4633775958022830314_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=iQqDS0biRgoAX9IizbB&_nc_ht=scontent-bkk1-1.xx&oh=00_AfA07xvgybaNilTVTQ0Pio7unxrf_aSA0cX34ixZkghIag&oe=65D6201B" alt="cover" />
+                    <img src="https://raw.githubusercontent.com/Fairplay018/SCS211/main/project/pic/slide%20(3).jpg" alt="cover" />
                 </div>
             </div>
 
