@@ -57,9 +57,9 @@
                 </div>
             </div>
             <div class="col-lg-5">
-                <img style="max-width: 100%;" class="card" src="https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/335087295_698492962025291_7101136129507984097_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=YEhyaDyKGEgAX9ABv3o&_nc_ht=scontent-bkk1-1.xx&oh=00_AfC_wqsiETA1_XAXzmY0jEXKHnH7TxOAhu4upOI5uUdjXQ&oe=65D5FF6B" alt="">
-                <img style="max-width: 100%;" class="card" src="https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/309197038_1027150944626982_7668218868061614804_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=J9zdKpp_r9UAX_1NAXu&_nc_ht=scontent-bkk1-1.xx&oh=00_AfBdGDBMS7nUctxaFYWrQgLG1d3jJHsgIy47oZEJM4clAA&oe=65D6832B" alt="">
-                <img style="max-width: 100%;" class="card" src="https://scontent-bkk1-1.xx.fbcdn.net/v/t39.30808-6/277662161_914224205919657_3615774555337215711_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=dd5e9f&_nc_ohc=QO05iI1kveAAX8FOnmM&_nc_ht=scontent-bkk1-1.xx&oh=00_AfA4Rb8bQiNcl1OtxFPRV0j1iHq3TX0H5OKtg092zfuR-g&oe=65D64C57" alt="">
+                <img style="max-width: 100%;" class="card" src="https://raw.githubusercontent.com/Fairplay018/SCS211/main/project/pic/condition%20(1).jpg" alt="">
+                <img style="max-width: 100%;" class="card" src="https://raw.githubusercontent.com/Fairplay018/SCS211/main/project/pic/condition%20(2).jpg" alt="">
+                <img style="max-width: 100%;" class="card" src="https://raw.githubusercontent.com/Fairplay018/SCS211/main/project/pic/condition%20(3).jpg" alt="">
             </div>
         </div>
     </div>
